@@ -6,7 +6,8 @@ gem 'uglifier'
 gem 'coffee-rails'        
 gem 'jquery-rails'         
 gem 'turbolinks'          
-gem 'jbuilder'            
+gem 'jbuilder'  
+gem 'therubyracer'          
 gem 'sdoc',                 '0.4.0', group: :doc
 
 group :development, :test do
